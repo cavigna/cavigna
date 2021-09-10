@@ -76,7 +76,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 </a>
 </p>
 <p>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cavigna&custom_title=Ignacio Cavallo's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=cavigna&custom_title=Ignacio Cavallo's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
    </p>
 <br>
 
