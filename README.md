@@ -15,7 +15,7 @@ Hi, I'm Ignacio Cavallo!
 <hr/>
 
 <samp>
-I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
+I am a Commercial Engenier and Android Developer in progress.I am a creative, dedicated , goal-oriented individual, honed communication skills. I think that my business background give me a plus to better understand the needs of Companies in order to develop Software. 
 </samp>
 
 ### :iphone: Proyects
@@ -29,6 +29,8 @@ This is an app that I bulit for searching and storing books. It uses Goolge Book
 
 #### GameApp
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />&nbsp;&nbsp;
+
+![](./images/kotlin.png)
 
 
 
