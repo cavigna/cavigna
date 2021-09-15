@@ -21,16 +21,26 @@ I am a Commercial Engenier and Android Developer in progress.I am a creative, de
 ### :iphone: Proyects
 
 #### BookApp 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+
+<img src="./images/java1.png" width="50" height = "50"/>
+<img src="./images/mvvm.png" width="50" height = "50"/>
+<img src="./images/room.png" width="50" height = "50"/>
 
 This is an app that I bulit for searching and storing books. It uses Goolge Books API for searching books by title or author, and NY Times  API for a list of bestsellers with she posibility of storing your favorite books in a databse for offline conections(whit images in db). Some of the components are: 
 ##### RetroFit, Android Room, MVVM.
 
 
-#### GameApp
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />&nbsp;&nbsp;
 
-![](./images/kotlin.png)
+
+#### GameApp
+
+<img src="./images/kotlin.png" width="50" height = "50"/>
+
+
+
+
+
+
 
 
 
