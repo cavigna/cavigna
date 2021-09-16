@@ -6,16 +6,13 @@ Hi, I'm Ignacio Cavallo!
  <img src="https://gpvc.arturio.dev/cavigna" alt="Profile views" align='right'/><a href="https://github.com/cavigna"> </a>
 <br/>
 
-
-
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Comercial+Engineer;Android+Developer+in+Progress;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <hr/>
 
 <samp>
-I am a Commercial Engenier and Android Developer in progress.I am a creative, dedicated , goal-oriented individual, with exceptional communication skills, fluent in Spanish and English. I think that my business background is an asset for a deeper comprehension of the needs of Companies.
+I am a Commercial Engenier and Android Developer in progress.I am a creative, dedicated , goal-oriented individual, with exceptional communication skills, fluent in Spanish and English. I think that my business background is an assetin order to deeper comprehension of the needs of Companies.
 </samp>
 
 
@@ -69,7 +66,8 @@ I am a Commercial Engenier and Android Developer in progress.I am a creative, de
 <h3 align="center">BookFinder</h3>
 
 <p>
-This is an app that I bulit for searching and storing books. It uses Goolge Books API for searching books by title or author, and NY Times  API for a list of bestsellers with she posibility of storing your favorite books in a database for offline conections(with images in room db).  
+
+This is an app that I bulit for searching and storing books. It uses <a href = "https://developers.google.com/books">Google Books API</a> for searching books by title or author, and <a href = "https://developer.nytimes.com/docs/books-product/1/overview ">NY Times API</a> for a list of bestsellers with she posibility of storing your favorite books in a database for offline conections(with images in room db).  
 </p>
 
 Link to Repo: [Book App](https://github.com/cavigna/BooksApp/tree/UI)
@@ -97,7 +95,13 @@ Link to Repo: [Book App](https://github.com/cavigna/BooksApp/tree/UI)
 
 <h3 align="center">Games App</h3>
 
-Is an App in progress. It uses [Rawg API](https://api.rawg.io/) to fetch upcoming games and also, best games of the year. Developed with *Jepack Compose* from the ground, uses RetroFit, MVVM Architecture, Kotlin Coroutines, and Dagger Hilt for dependency injection, and Jepack Navigation Component.Link to Repo: [Games App](https://github.com/cavigna/GamesApp)
+<p>
+
+Is an App in progress. The data comes from [Rawg API](https://api.rawg.io/) fetching upcoming games and also, best games of the year. Developed with *Jepack Compose* from the ground,  RetroFit, MVVM Architecture, Kotlin Coroutines, Dagger Hilt for Dependency Injection, and Jetpack Navigation Component.  
+
+</p>
+
+Link to Repo: [Games App](https://github.com/cavigna/GamesApp)
 
 
 </br>
