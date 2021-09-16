@@ -18,55 +18,6 @@ Hi, I'm Ignacio Cavallo!
 I am a Commercial Engenier and Android Developer in progress.I am a creative, dedicated , goal-oriented individual, honed communication skills. I think that my business background give me a plus to better understand the needs of Companies in order to develop Software. 
 </samp>
 
-### :iphone: Proyects
-
-#### BookApp 
-This is an app that I bulit for searching and storing books. It uses Goolge Books API for searching books by title or author, and NY Times  API for a list of bestsellers with she posibility of storing your favorite books in a database for offline conections(with images in room db). 
-
-<h6>Built with</h6>
-<p align="center">
-
-<img src="./images/kotlin.png" width="50" height = "50"/>
-<img src="./images/mvvm.png" width="50" height = "50"/>&nbsp;
-<img src="./images/database.png" width="50" height = "50"/>&nbsp;
-<img src="./images/retrofit.png" width="50" height = "50"/>&nbsp;&nbsp;
-<img src="./images/jetpack.png" width="50" height = "50"/>&nbsp;&nbsp;
-
-</p>
-<br>
-
-#### GameApp
-
-Is an App in progress. It uses [Rawg API]("https://api.rawg.io/") to fetch upcoming games and also, best games of the year. Developed with *Jepack Compose* from the ground, uses RetroFit, MVVM Architecture, Kotlin Coroutines, and Dagger Hilt for dependency injection, and Jepack Navigation Component.
-
-<p align="center">
-
-<img src="./images/kotlin.png" width="50" height = "50"/>
-<img src="./images/compose.png" width="60" height = "60"/>
-<img src="./images/mvvm.png" width="50" height = "50"/>&nbsp;
-<img src="./images/retrofit.png" width="50" height = "50"/>&nbsp;&nbsp;
-<img src="./images/jetpack.png" width="50" height = "50"/>&nbsp;&nbsp;
-<img src="./images/daggerhilt.png" width="100" height = "50"/>&nbsp;&nbsp;
-
-</p>
-<br>
-
-
-#### PaltApp
-
-Is an App in progress. It uses [Rawg API]("https://api.rawg.io/") to fetch upcoming games and also, best games of the year. Developed with *Jepack Compose* from the ground, uses RetroFit, MVVM Architecture, Kotlin Coroutines, and Dagger Hilt for dependency injection, and Jepack Navigation Component.
-
-<p align="center">
-
-<img src="./images/kotlin.png" width="50" height = "50"/>
-<img src="./images/compose.png" width="60" height = "60"/>
-<img src="./images/mvvm.png" width="50" height = "50"/>&nbsp;
-<img src="./images/retrofit.png" width="50" height = "50"/>&nbsp;&nbsp;
-<img src="./images/jetpack.png" width="50" height = "50"/>&nbsp;&nbsp;
-<img src="./images/daggerhilt.png" width="100" height = "50"/>&nbsp;&nbsp;
-
-</p>
-<br>
 
 ### 👨‍💻 Programming languages
 
@@ -108,6 +59,61 @@ Is an App in progress. It uses [Rawg API]("https://api.rawg.io/") to fetch upcom
 <img alt="analytics" src = "https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
 <img alt="TENSORFLOW" src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
+
+### :iphone: Projects
+
+#### BookApp 
+This is an app that I bulit for searching and storing books. It uses Goolge Books API for searching books by title or author, and NY Times  API for a list of bestsellers with she posibility of storing your favorite books in a database for offline conections(with images in room db). Link to Repo: [Book App]("https://github.com/cavigna/BooksApp")
+
+<p align="center">
+
+<img src="./images/kotlin.png" width="50" height = "50"/>
+<img src="./images/mvvm.png" width="50" height = "50"/>&nbsp;
+<img src="./images/database.png" width="50" height = "50"/>&nbsp;
+<img src="./images/retrofit.png" width="50" height = "50"/>&nbsp;&nbsp;
+<img src="./images/jetpack.png" width="50" height = "50"/>&nbsp;&nbsp;
+
+</p>
+</br>
+</br>
+<p align= "center">
+<img src="./proyectos/book1.png" width="125" height = "250"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./proyectos/book2.png" width="125" height = "250"/>&nbsp;
+</p>
+</br>
+
+#### GameApp
+
+Is an App in progress. It uses [Rawg API]("https://api.rawg.io/") to fetch upcoming games and also, best games of the year. Developed with *Jepack Compose* from the ground, uses RetroFit, MVVM Architecture, Kotlin Coroutines, and Dagger Hilt for dependency injection, and Jepack Navigation Component.
+
+<p align="center">
+
+<img src="./images/kotlin.png" width="50" height = "50"/>
+<img src="./images/compose.png" width="60" height = "60"/>
+<img src="./images/mvvm.png" width="50" height = "50"/>&nbsp;
+<img src="./images/retrofit.png" width="50" height = "50"/>&nbsp;&nbsp;
+<img src="./images/jetpack.png" width="50" height = "50"/>&nbsp;&nbsp;
+<img src="./images/daggerhilt.png" width="100" height = "50"/>&nbsp;&nbsp;
+
+</p>
+<br>
+
+
+#### PaltApp
+
+Is an App in progress. It uses [Rawg API]("https://api.rawg.io/") to fetch upcoming games and also, best games of the year. Developed with *Jepack Compose* from the ground, uses RetroFit, MVVM Architecture, Kotlin Coroutines, and Dagger Hilt for dependency injection, and Jepack Navigation Component.
+
+<p align="center">
+
+<img src="./images/kotlin.png" width="50" height = "50"/>
+<img src="./images/compose.png" width="60" height = "60"/>
+<img src="./images/mvvm.png" width="50" height = "50"/>&nbsp;
+<img src="./images/retrofit.png" width="50" height = "50"/>&nbsp;&nbsp;
+<img src="./images/jetpack.png" width="50" height = "50"/>&nbsp;&nbsp;
+<img src="./images/daggerhilt.png" width="100" height = "50"/>&nbsp;&nbsp;
+
+</p>
+<br>
 
 ## 🔥   Stats
 <p align="center">
