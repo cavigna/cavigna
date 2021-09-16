@@ -21,28 +21,34 @@ I am a Commercial Engenier and Android Developer in progress.I am a creative, de
 ### :iphone: Proyects
 
 #### BookApp 
+This is an app that I bulit for searching and storing books. It uses Goolge Books API for searching books by title or author, and NY Times  API for a list of bestsellers with she posibility of storing your favorite books in a database for offline conections(with images in room db). 
 
-<img src="./images/java1.png" width="50" height = "50"/>
-<img src="./images/mvvm.png" width="50" height = "50"/>
-<img src="./images/room.png" width="50" height = "50"/>
-
-This is an app that I bulit for searching and storing books. It uses Goolge Books API for searching books by title or author, and NY Times  API for a list of bestsellers with she posibility of storing your favorite books in a databse for offline conections(whit images in db). Some of the components are: 
-##### RetroFit, Android Room, MVVM.
-
-
-
-
-#### GameApp
+<h6>Built with</h6>
+<p align="center">
 
 <img src="./images/kotlin.png" width="50" height = "50"/>
+<img src="./images/mvvm.png" width="50" height = "50"/>&nbsp;
+<img src="./images/database.png" width="50" height = "50"/>&nbsp;
+<img src="./images/retrofit.png" width="50" height = "50"/>&nbsp;&nbsp;
+<img src="./images/jetpack.png" width="50" height = "50"/>&nbsp;&nbsp;
 
+</p>
+<br>
+#### GameApp
 
+Is an App in progress. It uses [Rawg API]("https://api.rawg.io/") to fetch upcoming games and also, best games of the year. Developed with *Jepack Compose* from the ground, uses RetroFit, MVVM Architecture, Kotlin Coroutines, and Dagger Hilt for dependency injection, and Jepack Navigation Component.
 
+<p align="center">
 
+<img src="./images/kotlin.png" width="50" height = "50"/>
+<img src="./images/compose.png" width="60" height = "60"/>
+<img src="./images/mvvm.png" width="50" height = "50"/>&nbsp;
+<img src="./images/retrofit.png" width="50" height = "50"/>&nbsp;&nbsp;
+<img src="./images/jetpack.png" width="50" height = "50"/>&nbsp;&nbsp;
+<img src="./images/daggerhilt.png" width="100" height = "50"/>&nbsp;&nbsp;
 
-
-
-
+</p>
+<br>
 
 
 
