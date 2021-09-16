@@ -66,8 +66,13 @@ I am a Commercial Engenier and Android Developer in progress.I am a creative, de
 
 ## :iphone: Projects
 
-#### BookApp 
-This is an app that I bulit for searching and storing books. It uses Goolge Books API for searching books by title or author, and NY Times  API for a list of bestsellers with she posibility of storing your favorite books in a database for offline conections(with images in room db). Link to Repo: [Book App](https://github.com/cavigna/BooksApp/tree/UI)
+<h3 align="center">BookFinder</h3>
+
+<p>
+This is an app that I bulit for searching and storing books. It uses Goolge Books API for searching books by title or author, and NY Times  API for a list of bestsellers with she posibility of storing your favorite books in a database for offline conections(with images in room db).  
+</p>
+
+Link to Repo: [Book App](https://github.com/cavigna/BooksApp/tree/UI)
 
 </br>
 <p align= "center">
@@ -85,12 +90,14 @@ This is an app that I bulit for searching and storing books. It uses Goolge Book
 <img src="./images/jetpack.png" width="50" height = "50"/>&nbsp;&nbsp;
 
 </p>
+
 <hr/>
+
 </br>
 
-#### GameApp
+<h3 align="center">Games App</h3>
 
-Is an App in progress. It uses [Rawg API](https://api.rawg.io/) to fetch upcoming games and also, best games of the year. Developed with *Jepack Compose* from the ground, uses RetroFit, MVVM Architecture, Kotlin Coroutines, and Dagger Hilt for dependency injection, and Jepack Navigation Component.
+Is an App in progress. It uses [Rawg API](https://api.rawg.io/) to fetch upcoming games and also, best games of the year. Developed with *Jepack Compose* from the ground, uses RetroFit, MVVM Architecture, Kotlin Coroutines, and Dagger Hilt for dependency injection, and Jepack Navigation Component.Link to Repo: [Games App](https://github.com/cavigna/GamesApp)
 
 
 </br>
@@ -112,12 +119,14 @@ Is an App in progress. It uses [Rawg API](https://api.rawg.io/) to fetch upcomin
 </p>
 </br>
 </br>
-</br>
+
+<hr/>
 
 
-#### PaltApp
+<h3 align="center">PaltApp</h3>
 
-It's a simple expenses tracker. Coded in java, with MVVM,  Room, and a lot of Kawaii!!
+It's a simple expenses tracker. Coded in java, with MVVM,  Room, and a lot of Kawaii!!.Link to Repo: [PaltApp](https://github.com/cavigna/Android_Development/tree/main/PaltApp)
+
 
 </br>
 <p align= "center">
@@ -135,10 +144,14 @@ It's a simple expenses tracker. Coded in java, with MVVM,  Room, and a lot of Ka
 
 </p>
 </br>
+<hr/>
 
-#### PokeDex
+<h3 align="center">BookFinder</h3>
+</br>
 
-Just for fun i followed a [tutorial](https://www.youtube.com/watch?v=v0of23TxIKc&list=PLQkwcJG4YTCTimTCpEL5FZgaWdIZQuB7m), but on my own terms. Because if you code along you don't learn much, so I mixed everything up, in order to learn by my self how can interact the old way with the new way. So, the Main Activity is the traditional way, with RecyclerView and textview, so on , so for; in the other hand Details Activity, it's made enterly with Jetpack Compose.  Beside compose, uses MVVM, Retrofit, LiveData and Corutines.
+Just for fun i followed a [tutorial](https://www.youtube.com/watch?v=v0of23TxIKc&list=PLQkwcJG4YTCTimTCpEL5FZgaWdIZQuB7m), but on my own terms. Because if you code along you don't learn much, so I mixed everything up, in order to learn by my self how can interact the old way with the new way. So, the Main Activity is the traditional way, with RecyclerView and textview, so on , so for; in the other hand Details Activity, it's made enterly with Jetpack Compose.  Beside compose, uses MVVM, Retrofit, LiveData and Coroutines.
+
+Link to Repo: [PokeDex](https://github.com/cavigna/Pokedex)
 
 </br>
 <p align= "center">
@@ -157,7 +170,9 @@ Just for fun i followed a [tutorial](https://www.youtube.com/watch?v=v0of23TxIKc
 <img src="./images/jetpack.png" width="50" height = "50"/>&nbsp;&nbsp;
 </p>
 </br>
+<hr/>
 </br>
+
 </br>
 
 ## 🔥   Stats
