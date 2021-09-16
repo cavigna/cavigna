@@ -15,11 +15,11 @@ Hi, I'm Ignacio Cavallo!
 <hr/>
 
 <samp>
-I am a Commercial Engenier and Android Developer in progress.I am a creative, dedicated , goal-oriented individual, honed communication skills. I think that my business background give me a plus to better understand the needs of Companies in order to develop Software. 
+I am a Commercial Engenier and Android Developer in progress.I am a creative, dedicated , goal-oriented individual, with exceptional communication skills, fluent in Spanish and English. I think that my business background is an asset for a deeper comprehension of the needs of Companies.
 </samp>
 
 
-### 👨‍💻 Programming languages
+## 👨‍💻 Programming languages
 
 <p  align="center">
 
@@ -29,19 +29,21 @@ I am a Commercial Engenier and Android Developer in progress.I am a creative, de
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python" />
 </p>
+</br>
 
+## 💻 Software and tools
 
-### 💻 Software and tools
-
-<img src="" alt = "" />&nbsp;&nbsp;
+<p align="center">
+<img src="" alt = "" />
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="androids_studio" />
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt = "intellij" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt = "visual" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt = "colab" />&nbsp;&nbsp;
+</p>
+</br>
 
-
-### 🚀 FrameWorks
-<p>
+## 🚀 FrameWorks
+<p align="center">
 <img alt="" src = "" />
 <img alt="gradle" src = "https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
 <img alt="firebase" src = "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -53,20 +55,29 @@ I am a Commercial Engenier and Android Developer in progress.I am a creative, de
 <img alt="conda" src = "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
 <img alt="postman" src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </p>
+</br>
 
-### 📊 Analytics and  AI
-<p>
+## 📊 Analytics and  AI
+<p align= "center">
 <img alt="analytics" src = "https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
 <img alt="TENSORFLOW" src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
+</br>
 
-### :iphone: Projects
+## :iphone: Projects
 
 #### BookApp 
-This is an app that I bulit for searching and storing books. It uses Goolge Books API for searching books by title or author, and NY Times  API for a list of bestsellers with she posibility of storing your favorite books in a database for offline conections(with images in room db). Link to Repo: [Book App]("https://github.com/cavigna/BooksApp")
+This is an app that I bulit for searching and storing books. It uses Goolge Books API for searching books by title or author, and NY Times  API for a list of bestsellers with she posibility of storing your favorite books in a database for offline conections(with images in room db). Link to Repo: [Book App](https://github.com/cavigna/BooksApp/tree/UI)
 
-<p align="center">
+</br>
+<p align= "center">
+<img src="./proyectos/book1.png" width="135" height = "250"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./proyectos/book2.png" width="135" height = "250"/>&nbsp;
+</p>
+</br>
+<p align="right">
 
+<!-- <img src="./images/built2.png" width="200" height = "50"/> -->
 <img src="./images/kotlin.png" width="50" height = "50"/>
 <img src="./images/mvvm.png" width="50" height = "50"/>&nbsp;
 <img src="./images/database.png" width="50" height = "50"/>&nbsp;
@@ -74,19 +85,22 @@ This is an app that I bulit for searching and storing books. It uses Goolge Book
 <img src="./images/jetpack.png" width="50" height = "50"/>&nbsp;&nbsp;
 
 </p>
-</br>
-</br>
-<p align= "center">
-<img src="./proyectos/book1.png" width="125" height = "250"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./proyectos/book2.png" width="125" height = "250"/>&nbsp;
-</p>
+<hr/>
 </br>
 
 #### GameApp
 
-Is an App in progress. It uses [Rawg API]("https://api.rawg.io/") to fetch upcoming games and also, best games of the year. Developed with *Jepack Compose* from the ground, uses RetroFit, MVVM Architecture, Kotlin Coroutines, and Dagger Hilt for dependency injection, and Jepack Navigation Component.
+Is an App in progress. It uses [Rawg API](https://api.rawg.io/) to fetch upcoming games and also, best games of the year. Developed with *Jepack Compose* from the ground, uses RetroFit, MVVM Architecture, Kotlin Coroutines, and Dagger Hilt for dependency injection, and Jepack Navigation Component.
 
-<p align="center">
+
+</br>
+<p align= "center">
+<img src="./proyectos/gamesapp.jpg" width="135" height = "270"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+</br>
+
+<p align="right">
 
 <img src="./images/kotlin.png" width="50" height = "50"/>
 <img src="./images/compose.png" width="60" height = "60"/>
@@ -96,24 +110,55 @@ Is an App in progress. It uses [Rawg API]("https://api.rawg.io/") to fetch upcom
 <img src="./images/daggerhilt.png" width="100" height = "50"/>&nbsp;&nbsp;
 
 </p>
-<br>
+</br>
+</br>
+</br>
 
 
 #### PaltApp
 
-Is an App in progress. It uses [Rawg API]("https://api.rawg.io/") to fetch upcoming games and also, best games of the year. Developed with *Jepack Compose* from the ground, uses RetroFit, MVVM Architecture, Kotlin Coroutines, and Dagger Hilt for dependency injection, and Jepack Navigation Component.
+It's a simple expenses tracker. Coded in java, with MVVM,  Room, and a lot of Kawaii!!
 
-<p align="center">
+</br>
+<p align= "center">
+<img src="./proyectos/paltaapp.jpg" width="135" height = "275"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./proyectos/paltapp3.jpg" width="135" height = "275"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./proyectos/paltapp4.jpg" width="135" height = "275"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+</br>
+<p align="right">
+
+<img src="./images/java2.png" width="50" height = "50"/>
+<img src="./images/database.png" width="50" height = "50"/>&nbsp;
+<img src="./images/mvvm.png" width="50" height = "50"/>&nbsp;
+
+</p>
+</br>
+
+#### PokeDex
+
+Just for fun i followed a [tutorial](https://www.youtube.com/watch?v=v0of23TxIKc&list=PLQkwcJG4YTCTimTCpEL5FZgaWdIZQuB7m), but on my own terms. Because if you code along you don't learn much, so I mixed everything up, in order to learn by my self how can interact the old way with the new way. So, the Main Activity is the traditional way, with RecyclerView and textview, so on , so for; in the other hand Details Activity, it's made enterly with Jetpack Compose.  Beside compose, uses MVVM, Retrofit, LiveData and Corutines.
+
+</br>
+<p align= "center">
+<img src="./proyectos/poke.jpg" width="135" height = "270"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./proyectos/poke1.jpg" width="135" height = "270"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+</br>
+
+<p align="right">
 
 <img src="./images/kotlin.png" width="50" height = "50"/>
 <img src="./images/compose.png" width="60" height = "60"/>
 <img src="./images/mvvm.png" width="50" height = "50"/>&nbsp;
 <img src="./images/retrofit.png" width="50" height = "50"/>&nbsp;&nbsp;
 <img src="./images/jetpack.png" width="50" height = "50"/>&nbsp;&nbsp;
-<img src="./images/daggerhilt.png" width="100" height = "50"/>&nbsp;&nbsp;
-
 </p>
-<br>
+</br>
+</br>
+</br>
 
 ## 🔥   Stats
 <p align="center">
