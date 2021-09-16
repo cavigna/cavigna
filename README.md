@@ -152,7 +152,7 @@ Link to Repo: [PaltApp](https://github.com/cavigna/Android_Development/tree/main
 </br>
 <hr/>
 
-<h3 align="center">BookFinder</h3>
+<h3 align="center">PokeDex</h3>
 </br>
 
 Just for fun i followed a [tutorial](https://www.youtube.com/watch?v=v0of23TxIKc&list=PLQkwcJG4YTCTimTCpEL5FZgaWdIZQuB7m), but on my own terms. Because if you code along you don't learn much, so I mixed everything up, in order to learn by my self how can interact the old way with the new way. So, the Main Activity is the traditional way, with RecyclerView and textview, so on , so for; in the other hand Details Activity, it's made enterly with Jetpack Compose.  Beside compose, uses MVVM, Retrofit, LiveData and Coroutines.
