@@ -34,6 +34,7 @@ This is an app that I bulit for searching and storing books. It uses Goolge Book
 
 </p>
 <br>
+
 #### GameApp
 
 Is an App in progress. It uses [Rawg API]("https://api.rawg.io/") to fetch upcoming games and also, best games of the year. Developed with *Jepack Compose* from the ground, uses RetroFit, MVVM Architecture, Kotlin Coroutines, and Dagger Hilt for dependency injection, and Jepack Navigation Component.
@@ -51,6 +52,21 @@ Is an App in progress. It uses [Rawg API]("https://api.rawg.io/") to fetch upcom
 <br>
 
 
+#### PaltApp
+
+Is an App in progress. It uses [Rawg API]("https://api.rawg.io/") to fetch upcoming games and also, best games of the year. Developed with *Jepack Compose* from the ground, uses RetroFit, MVVM Architecture, Kotlin Coroutines, and Dagger Hilt for dependency injection, and Jepack Navigation Component.
+
+<p align="center">
+
+<img src="./images/kotlin.png" width="50" height = "50"/>
+<img src="./images/compose.png" width="60" height = "60"/>
+<img src="./images/mvvm.png" width="50" height = "50"/>&nbsp;
+<img src="./images/retrofit.png" width="50" height = "50"/>&nbsp;&nbsp;
+<img src="./images/jetpack.png" width="50" height = "50"/>&nbsp;&nbsp;
+<img src="./images/daggerhilt.png" width="100" height = "50"/>&nbsp;&nbsp;
+
+</p>
+<br>
 
 ### 👨‍💻 Programming languages
 
