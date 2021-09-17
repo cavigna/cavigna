@@ -61,13 +61,13 @@ I am a Commercial Engenier and Android Developer in progress.I am a creative, de
 </p>
 </br>
 
-## :iphone: Projects
+## 📱 Projects
 
 <h3 align="center">BookFinder</h3>
 
 <p>
 
-This is an app that I bulit for searching and storing books. It uses <a href = "https://developers.google.com/books">Google Books API</a> for searching books by title or author, and <a href = "https://developer.nytimes.com/docs/books-product/1/overview ">NY Times API</a> for a list of bestsellers with she posibility of storing your favorite books in a database for offline conections(with images in room db).  
+This is an app that I bulit for searching and storing books. It uses <a href = "https://developers.google.com/books">Google Books API</a> for searching books by title or author, and <a href = "https://developer.nytimes.com/docs/books-product/1/overview ">NY Times API</a> for a list of bestsellers with the posibility of storing your favorite books in a database for offline conections(with images in room db).  
 </p>
 
 Link to Repo: [Book App](https://github.com/cavigna/BooksApp/tree/UI)
