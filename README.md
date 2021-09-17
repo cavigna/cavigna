@@ -12,8 +12,10 @@ Hi, I'm Ignacio Cavallo!
 <hr/>
 
 <samp>
-I am a Commercial Engenier and Android Developer in progress.I am a creative, dedicated , goal-oriented individual, with exceptional communication skills, fluent in Spanish and English. I think that my business background is an assetin order to deeper comprehension of the needs of Companies.
-</samp>
+I am a Commercial Engenier and Android Developer in progress.I am a creative, dedicated , goal-oriented individual, with exceptional communication skills, fluent in Spanish and English. I think that my business background is an assetin order to deeper comprehension of the needs of Companies.  
+
+</samp>  
+
 
 
 ## 👨‍💻 Programming languages
