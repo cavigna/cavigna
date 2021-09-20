@@ -201,10 +201,17 @@ Link to Repo: [PokeDex](https://github.com/cavigna/Pokedex)
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavigna&theme=tokyonight" />
 </a>
 </p>
+
+</br>
+</br>
 <p>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=cavigna&custom_title=Ignacio Cavallo's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=cavigna&custom_title=Ignacio Cavallo's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+   
+   
    </p>
-<br>
+
+
+</br>
 
 
 
