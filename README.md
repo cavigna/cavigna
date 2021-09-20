@@ -131,7 +131,7 @@ Link to Repo: [Games App](https://github.com/cavigna/GamesApp)
 
 <h3 align="center">PaltApp</h3>
 
-It's a simple expenses tracker. Coded in java, with MVVM,  Room, and a lot of Kawaii!!.
+It's a simple expenses tracker. Coded in java, with MVVM,  Room, and a lot of Kawaii!!. This was my first full app in Android, after almost two months of learning App development in java.
 
 Link to Repo: [PaltApp](https://github.com/cavigna/Android_Development/tree/main/PaltApp)
 
