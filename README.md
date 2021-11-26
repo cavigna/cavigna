@@ -67,7 +67,7 @@ I am a Commercial Engenier and Android Developer in progress.I am a creative, de
 
 <h3 align="center">NewssApp & RickAndMorty</h3>
 
-<p> Both Apps consumes from an Api REST, and store the data in a database(Room). The source of truth is the repository, specifically  the DB. </p>
+<p> Both Apps consumes from an Api REST, and store the data in a database(Room). The source of truth is the repository, specifically  the DB.</p>
 
 
 
