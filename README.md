@@ -65,6 +65,30 @@ I am a Commercial Engenier and Android Developer in progress.I am a creative, de
 
 ## 📱 Projects
 
+<h3 align="center">NewssApp & RickAndMorty</h3>
+
+<p> Both Apps consumes from an Api REST, and store the data in a database(Room). The source of truth is the repository, specifically  the DB. </p>
+
+
+
+NewsApp         |  Rick and Morty App
+:-------------------------:|:-------------------------:
+![](./images/news_app.gif)|  ![](./images/rick.gif)
+[News App](https://github.com/cavigna/RickAndMortyApp) |[Rick and Morty](https://github.com/cavigna/RickAndMortyApp)
+
+
+
+<p align="right">
+
+
+<img src="./images/kotlin.png" width="50" height = "50"/>
+<img src="./images/mvvm.png" width="50" height = "50"/>&nbsp;
+<img src="./images/database.png" width="50" height = "50"/>&nbsp;
+<img src="./images/retrofit.png" width="50" height = "50"/>&nbsp;&nbsp;
+<img src="./images/jetpack.png" width="50" height = "50"/>&nbsp;&nbsp;
+
+</p>
+
 <h3 align="center">BookFinder</h3>
 
 <p>
@@ -204,8 +228,8 @@ Link to Repo: [PokeDex](https://github.com/cavigna/Pokedex)
 
 </br>
 </br>
-<!-- <p>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=cavigna&custom_title=Ignacio Cavallo's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<p>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=cavigna&custom_title=Ignacio Cavallo's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /> 
    
    
    </p> -->
