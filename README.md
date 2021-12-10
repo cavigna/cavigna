@@ -65,6 +65,14 @@ I am a Commercial Engenier and Android Developer in progress.I am a creative, de
 
 ## 📱 Projects
 
+<h3 align="center">Breaking Bad</h3>
+
+An application that uses [The Breaking Bad Api](https://breakingbadapi.com/), and stores the data in a local database(Room).
+
+<p align= "center">
+<image src = "./images/bb.gif" />
+</p>
+
 <h3 align="center">NewssApp & RickAndMorty</h3>
 
 <p> Both Apps consumes from an Api REST, and store the data in a database(Room). The source of truth is the repository, specifically  the DB.</p>
@@ -229,10 +237,9 @@ Link to Repo: [PokeDex](https://github.com/cavigna/Pokedex)
 </br>
 </br>
 <p>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=cavigna&custom_title=Ignacio Cavallo's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /> 
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=cavigna&custom_title=Ignacio Cavallo's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />   
    
-   
-   </p> -->
+   </p> 
 
 
 </br>
