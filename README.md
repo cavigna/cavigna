@@ -67,12 +67,12 @@ I am a Commercial Engenier and Android Developer in progress.I am a creative, de
 
 <h3 align="center">Breaking Bad</h3>
 
-An application that uses [The Breaking Bad Api](https://breakingbadapi.com/), and stores the data in a local database(Room).
+An application that uses [The Breaking Bad Api](https://breakingbadapi.com/), and stores the data in a local database(Room). Link to Repo: [Breaking Bad](https://github.com/cavigna/Breaking_Bad_App) 
 
 <p align= "center">
-<image src = "./images/bb.gif" />
+<image src = "./images/bb.gif" href= "https://github.com/cavigna/Breaking_Bad_App"/>
 </p>
-
+</br>
 <h3 align="center">NewssApp & RickAndMorty</h3>
 
 <p> Both Apps consumes from an Api REST, and store the data in a database(Room). The source of truth is the repository, specifically  the DB.</p>
