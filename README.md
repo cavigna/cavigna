@@ -7,12 +7,12 @@ Hi, I'm Ignacio Cavallo!
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Android Dev;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Android Dev%20;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <hr/>
 
 <samp>
-I am a Mobile Software Engineer.I am a creative, dedicated , goal-oriented individual, with exceptional communication skills, fluent in Spanish and English. I think that my business background is an asset in order to deeper comprehension of the needs of Companies.  
+I am a Mobile Software Engineer. I am a creative, dedicated , goal-oriented individual, with exceptional communication skills, fluent in Spanish and English. I think that my business background is an asset in order to deeper comprehension of the needs of Companies.  
 
 </samp>  
 
